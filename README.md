@@ -1,1 +1,1 @@
-# ts-rest-server
+# TypeScript && sql services
